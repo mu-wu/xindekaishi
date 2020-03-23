@@ -94,6 +94,14 @@
                  
 
                  
+                       <el-menu-item index="1-4-1">
+                    <template slot="title">
+                <i class="el-icon-location"></i>
+                <span>导航一</span>
+              </template>
+        
+                 </el-menu-item>
+                 
 
                  
                  
